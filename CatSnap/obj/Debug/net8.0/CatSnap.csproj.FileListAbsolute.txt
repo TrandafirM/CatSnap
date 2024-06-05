@@ -1,0 +1,15 @@
+D:\Projects\CatSnap\CatSnap\bin\Debug\net8.0\CatSnap.exe
+D:\Projects\CatSnap\CatSnap\bin\Debug\net8.0\CatSnap.deps.json
+D:\Projects\CatSnap\CatSnap\bin\Debug\net8.0\CatSnap.runtimeconfig.json
+D:\Projects\CatSnap\CatSnap\bin\Debug\net8.0\CatSnap.dll
+D:\Projects\CatSnap\CatSnap\bin\Debug\net8.0\CatSnap.pdb
+D:\Projects\CatSnap\CatSnap\obj\Debug\net8.0\CatSnap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CatSnap\CatSnap\obj\Debug\net8.0\CatSnap.AssemblyInfoInputs.cache
+D:\Projects\CatSnap\CatSnap\obj\Debug\net8.0\CatSnap.AssemblyInfo.cs
+D:\Projects\CatSnap\CatSnap\obj\Debug\net8.0\CatSnap.csproj.CoreCompileInputs.cache
+D:\Projects\CatSnap\CatSnap\obj\Debug\net8.0\CatSnap.dll
+D:\Projects\CatSnap\CatSnap\obj\Debug\net8.0\refint\CatSnap.dll
+D:\Projects\CatSnap\CatSnap\obj\Debug\net8.0\CatSnap.pdb
+D:\Projects\CatSnap\CatSnap\obj\Debug\net8.0\CatSnap.genruntimeconfig.cache
+D:\Projects\CatSnap\CatSnap\obj\Debug\net8.0\ref\CatSnap.dll
+D:\Projects\CatSnap\CatSnap\obj\Debug\net8.0\CatSnap.sourcelink.json
